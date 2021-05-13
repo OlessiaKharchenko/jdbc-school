@@ -1,0 +1,10 @@
+Math_The study of quantity, structure, space and change.
+Biology_The study of life and living organisms.
+Physics_The study of matter, its motion and behavior through space and time, and the related entities of energy and force.
+Geometry_The study of the sizes, shapes, positions angles and dimensions of things.
+Astronomy_The study of the contents of the entire Universe.
+Geography_Students learn about climate issues, weather patterns, landforms, soils, vegetation, and water usage.
+Literature_The study of representative works of world literature from Antiquity, the Middle Ages, and the Renaissance.
+Chemistry_The study of matter — what it consists of, what its properties are, and how it changes.
+History_The study of the past.
+Music_Students will explore the basics of music as well as sing, perform on classroom instruments.
